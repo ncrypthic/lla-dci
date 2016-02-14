@@ -1,0 +1,4 @@
+## phpspec configuration file
+suites:
+    default:
+        src_path: %paths.config%/test

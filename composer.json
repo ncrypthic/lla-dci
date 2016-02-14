@@ -1,0 +1,23 @@
+{
+    "name": "ris/dci",
+    "description": "Simple PHP DCI pattern implementation",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lim Afriyadi",
+            "email": "lim.afriyadi.id@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "": "test/"
+        },
+        "psr-4": {
+            "": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {
+        "phpspec/phpspec": "~2.0"
+    }
+}
