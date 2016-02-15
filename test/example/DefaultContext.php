@@ -2,7 +2,7 @@
 
 namespace example;
 
-use Ris\Dci\AbstractContext;
+use LLA\Dci\AbstractContext;
 
 class DefaultContext extends AbstractContext
 {
