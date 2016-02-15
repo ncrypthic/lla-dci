@@ -1,5 +1,5 @@
 <?php
-namespace Ris\Dci;
+namespace LLA\Dci;
 
 /**
  * All property in this class should be necessary context data and should not 

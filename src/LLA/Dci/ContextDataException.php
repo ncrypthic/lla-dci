@@ -1,5 +1,5 @@
 <?php
-namespace Ris\Dci;
+namespace LLA\Dci;
 
 /**
  * Context data exception
